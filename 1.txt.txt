@@ -1,0 +1,78 @@
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Owner avatar
+my-first-repo
+Public
+tejaswiraj199410/my-first-repo
+Go to file
+t
+Name		
+tejaswiraj199410
+tejaswiraj199410
+this is 1.txt,my.ipynb
+2dceb45
+ · 
+34 minutes ago
+.gitignore
+this is my firrst commit
+7 hours ago
+1.txt
+this is 1.txt,my.ipynb
+34 minutes ago
+2-file
+this is third commit from my end
+7 hours ago
+LICENSE
+Initial commit
+yesterday
+README.md
+Initial commit
+yesterday
+my.ipynb
+this is 1.txt,my.ipynb
+34 minutes ago
+Repository files navigation
+README
+MIT license
+my-first-repo
+my first project
+
+About
+my first project
+
+Resources
+ Readme
+License
+ MIT license
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+GitHub Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
